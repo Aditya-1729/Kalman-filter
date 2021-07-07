@@ -11,7 +11,7 @@ So the problem statement is if we cant trust the measurements from our sensors, 
 
 Kalman filter is an elegant solution to this problem. It's an algorithm that performes Bayes optimal dynamic state estimation. It is based on a dynamic model for Predictions and a measurement model for update. It leads to an optimal Minimum Mean Squared Error Estimation for linear dynamic systems. 
 
-Fun fact: Rudolf Kálmán who co invented this algorithm faced a lot of criticism initially. He was forced to publish his results in  Mechanical engineering rather than Electrical or systems Engineering. 
+*Fun fact: Rudolf Kálmán who co invented this algorithm faced a lot of criticism initially. He was forced to publish his results in  Mechanical engineering rather than Electrical or systems Engineering!*
 
 ## Code
 The code is an ipython file and I have tried to present descriptions/ mathematical formulations along the code cells. 
