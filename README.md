@@ -1,5 +1,5 @@
 # Kalman-filter
-I have modeled a Linear state estimation with Kalman Filter on python
+Here, I have modeled a Kalman Filter on python
 
 # Motivation
 I am very fortunate that I came across the academic course on Estimation and Information Fusion at RWTH university. Here I learnt the the algorithm behind Kalman filter, which I wanted to understand for a while. I was mostly curious to know how to see through the random noise (uncertainty) in the measurements and work out a method of reliable tracking in an optimal fashion. 
