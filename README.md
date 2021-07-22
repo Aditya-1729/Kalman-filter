@@ -17,4 +17,4 @@ Kalman filter is an elegant solution to this problem. It's an algorithm that per
 The code is an ipython file and I have tried to present descriptions/ mathematical formulations along the code cells. 
 
 ## What is next
-Since Kalman filter only performs well on linear systems. I am excited to implement Extended and Unscented Kalman filters in the future. 
+Since Kalman filter only performs well on linear systems. I will be implementing Extended and Unscented Kalman filters in the future. 
